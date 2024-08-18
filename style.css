@@ -72,8 +72,8 @@ main {
   padding-left: 17rem;
 }
 img {
-  width: 33rem;
-  height: 33.43rem;
+  width: 29rem;
+  height: 29rem;
 }
 
 /* ====================================FOOTER==================================== */
@@ -82,7 +82,7 @@ footer {
   background: #282828;
   display: flex;
   justify-content: space-between;
-  padding: 3rem 12rem;
+  padding: 2.7rem 12rem;
 }
 footer > p {
   display: flex;
